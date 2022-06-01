@@ -1,12 +1,12 @@
-// 1) We want the ability to accept proposal and store them
-// proposal: their name, number
+1) We want the ability to accept proposal and store them
+  proposal: their name, number
 
-// 2) Voters and voting ability
-// keep track of vote
-// check voters areauthenticated to vote
+2) Voters and voting ability
+  keep track of vote
+  check voters areauthenticated to vote
 
-// 3) chairman
-// authenticate and deploy contract
+3) chairman
+  authenticate and deploy contract
 
 # Run contract on remix
 
